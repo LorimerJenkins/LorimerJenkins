@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [LorimerJenkins.com](LorimerJenkins.com)
 
-- 💬 Ask me about **JavaScript, React, NodeJS, Bun, NextJS, Python, Web3**
+- 💬 Ask me about **JavaScript, React, NodeJS, Bun, NextJS, Python, Web3, Typescript, AI (but cool AI not hype AI)**
 
 - 📫 How to reach me **lorimerjenkins1@gmail.com**
 
