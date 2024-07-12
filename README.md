@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LorimerJenkins&label=Profile%20views&color=0e75b6&style=flat" alt="LorimerJenkins" /> </p>
 
-- 👨‍💻 All of my projects are available at [LorimerJenkins.com](LorimerJenkins.com)
-
-- 📝 I regularly write articles on [LorimerJenkins.com](LorimerJenkins.com)
-
 - 💬 Ask me about **JavaScript, React, NodeJS, Bun, NextJS, Python, Web3, Typescript, AI (but cool AI not hype AI)**
 
 - 📫 How to reach me **lorimerjenkins1@gmail.com**
-
-- 📄 Learn more about me [LorimerJenkins.com](LorimerJenkins.com)
 
 - ⚡ Fun fact **I HATE cheese and milk.**
 
