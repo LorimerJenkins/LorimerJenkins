@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **JavaScript, React, NodeJS, Bun, NextJS, Python, Web3, Typescript, AI (but cool AI not hype AI)**
 
-- 📫 How to reach me **lorimerjenkins1@gmail.com**
-
 - ⚡ Fun fact **I HATE cheese and milk.**
 
 <h3 align="left">Connect with me:</h3>
