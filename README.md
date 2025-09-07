@@ -38,9 +38,6 @@ I'm a FullStack Developer based in the city of Cambridge, United Kingdom. I love
   <a href="https://linkedin.com/in/lorimerjenkins" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/c/LorimerJenkins" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </div>
 
 ## 📈 Profile Views
