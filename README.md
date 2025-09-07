@@ -1,26 +1,55 @@
-<h1 align="center">Hi 👋, I'm Lorimer Jenkins</h1>
-<h3 align="center">A Web3 enthusiast and FullStack Developer from Cambridge, United Kingdom</h3>
+# Hi there, I'm Lorimer Jenkins! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LorimerJenkins&label=Profile%20views&color=0e75b6&style=flat" alt="LorimerJenkins" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=FullStack+Developer;From+Cambridge%2C+UK;Passionate+about+clean+code;Building+innovative+solutions" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **JavaScript, React, NodeJS, Bun, NextJS, Python, Web3, Typescript, AI (but cool AI not hype AI)**
+## 🚀 About Me
 
-- ⚡ Fun fact **I HATE cheese and milk.**
+I'm a FullStack Developer based in the city of Cambridge, United Kingdom. I love crafting elegant solutions to complex problems and building applications that make a difference.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lorimer_jenkins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorimer_jenkins" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lorimerjenkins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorimerjenkins" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/LorimerJenkins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LorimerJenkins" height="30" width="40" /></a>
-</p>
+- 🔭 I'm currently working on LiquidOps.io, a lending and borrowing protocol on Arweave and AO.
+- 🌱 I'm always learning new technologies and staying up-to-date with industry trends
+- 📫 How to reach me: Check out my social links below!
+- ⚡ Fun fact: I do not like Cheese or Milk lol
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+## 📊 GitHub Analytics
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> </a> <a href="https://bun.sh" target="_blank" rel="noreferrer"> <img src="https://bun.sh/logo.svg" alt="bun" width="40" height="40"/> </a> </a> <a href="https://chat.openai.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" alt="ChatGPT" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://www.lua.org/images/logo.gif" alt="Lua" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="40" height="40"/> </a> </a> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorimerJenkins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorimerJenkins&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorimerJenkins&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LorimerJenkins&show_icons=true&locale=en&layout=compact" alt="LorimerJenkins" /></p>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LorimerJenkins&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LorimerJenkins&show_icons=true&locale=en" alt="LorimerJenkins" /></p>
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://twitter.com/lorimer_jenkins" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/lorimerjenkins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/c/LorimerJenkins" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+## 📈 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LorimerJenkins&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ <a href="https://github.com/LorimerJenkins">Lorimer Jenkins</a></i>
+</div>
