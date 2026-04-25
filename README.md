@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a FullStack Developer based in the city of Cambridge, United Kingdom. I love crafting elegant solutions to complex problems and building applications that make a difference.
+I'm a FullStack Developer based in London. I love crafting elegant solutions to complex problems and building applications that make a difference.
 
-- 🔭 I'm currently working on LiquidOps.io, a lending and borrowing protocol on Arweave and AO.
+- 🔭 I'm currently working on lorimerjenkins.com
 - 🌱 I'm always learning new technologies and staying up-to-date with industry trends
 - 📫 How to reach me: Check out my social links below!
 - ⚡ Fun fact: I do not like Cheese or Milk lol
